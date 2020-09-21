@@ -17,8 +17,8 @@ PDFは一度JPEGで圧縮して変換するのでサイズを削減できます�
 [起動]を押すと新たにカメラが起動し、「📷」マークを押すと選択範囲のPNG写真が連番で保存されます。  
 [⚙]からキャプチャ範囲を追加、編集、削除できます。  
 [変更を保存]を押すと、アプリを閉じても設定が記憶されます。（同ディレクトリ内に"ColLect.pickle"ファイルが作成されます。）
-<img src=images/capture.png width=250>
-  
+<img src=images/capture.png width=250> <img src=images/capture_range_settings.png width=380>
+
 #### 「PDF変換」
 […]から上で撮った連番写真が保存されているフォルダを選択すると、最初と最後の番号のPNGファイル名が下の範囲に表示されます。  
 PDF化する写真の範囲を編集します。  
